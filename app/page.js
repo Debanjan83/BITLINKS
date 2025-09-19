@@ -12,8 +12,8 @@ export default function Home() {
           </h1>
           <p className="text-gray-600 text-lg md:pr-16">
             We provide the most straightforward and easy-to-use URL shortening service. 
-            Unlike others, we don’t track you or force logins. 
-            Your privacy matters, and that’s why we built <span className="font-semibold text-teal-600">BitLinks</span>.
+            Unlike others, we don&apos;t track you or force logins. 
+            Your privacy matters, and that&apos;s why we built <span className="font-semibold text-teal-600">BitLinks</span>.
           </p>
 
           <div className="flex gap-4">
