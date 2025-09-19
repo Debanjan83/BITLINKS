@@ -6,7 +6,7 @@ const About = () => {
         <main className="bg-gradient-to-b from-blue-50 via-cyan-50 to-white min-h-screen py-16 px-6">
             <div className="max-w-6xl mx-auto text-center mt-10">
                 <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900">
-                    About <span className="text-indigo-600">BitLinks</span>
+                    About <span className="text-blue-600">BitLinks</span>
                 </h1>
                 <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
                     BitLinks is a fast, reliable, and privacy-focused URL shortener designed
@@ -53,7 +53,7 @@ const About = () => {
                         alt="Creator"
                         width={112} 
                         height={112}
-                        className="rounded-full shadow-lg border-4 border-indigo-600 object-cover"
+                        className="rounded-full shadow-lg border-4 border-blue-600 object-cover"
                     />
                     <h3 className="mt-4 text-xl font-semibold text-gray-800">Debanjan Pal</h3>
                     <p className="text-gray-600 text-sm">
