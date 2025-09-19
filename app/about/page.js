@@ -40,7 +40,7 @@ const About = () => {
                 <h2 className="text-3xl font-bold text-gray-900">Our Mission</h2>
                 <p className="mt-4 text-gray-600">
                     At BitLinks, our mission is to simplify the way people share links online.
-                    Whether you're a developer, marketer, or casual user, we provide a clean,
+                    Whether you&apos;re a developer, marketer, or casual user, we provide a clean,
                     efficient, and reliable tool that empowers you to share without limits.
                 </p>
             </div>
