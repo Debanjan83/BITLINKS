@@ -5,7 +5,7 @@ const Contact = () => {
         <main className="bg-gradient-to-b from-blue-50 via-cyan-50 to-white min-h-screen py-16 px-6">
             <div className="max-w-4xl mx-auto bg-white rounded-xl shadow-lg p-8 mt-10">
                 <h1 className="text-4xl font-bold text-center text-gray-900">
-                    Contact <span className="text-indigo-600">Us</span>
+                    Contact <span className="text-blue-600">Us</span>
                 </h1>
                 <p className="text-center text-gray-600 mt-3 mb-10">
                     Have questions, feedback, or suggestions? We&apos;d love to hear from you!
@@ -17,26 +17,26 @@ const Contact = () => {
                             type="text"
                             name="name"
                             placeholder="Your Name"
-                            className="px-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
+                            className="px-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
                             required
                         />
                         <input
                             type="email"
                             name="email"
                             placeholder="Your Email"
-                            className="px-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
+                            className="px-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
                             required
                         />
                         <textarea
                             name="message"
                             rows={5}
                             placeholder="Your Message"
-                            className="px-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
+                            className="px-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
                             required
                         ></textarea>
                         <button
                             type="submit"
-                            className="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-3 rounded-lg transition cursor-pointer"
+                            className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 rounded-lg transition cursor-pointer"
                         >
                             Send Message
                         </button>
