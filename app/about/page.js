@@ -25,7 +25,7 @@ const About = () => {
                 <div className="bg-white p-6 rounded-xl shadow hover:shadow-lg transition">
                     <h2 className="text-xl font-semibold text-gray-900">🔒 Privacy First</h2>
                     <p className="mt-2 text-gray-600 text-sm">
-                        We don’t track or sell your data. Your links are yours, and always private.
+                        We don&apos;t track or sell your data. Your links are yours, and always private.
                     </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl shadow hover:shadow-lg transition">
