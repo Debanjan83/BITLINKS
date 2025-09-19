@@ -8,7 +8,7 @@ const Contact = () => {
                     Contact <span className="text-indigo-600">Us</span>
                 </h1>
                 <p className="text-center text-gray-600 mt-3 mb-10">
-                    Have questions, feedback, or suggestions? We’d love to hear from you!
+                    Have questions, feedback, or suggestions? We&apos;d love to hear from you!
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
